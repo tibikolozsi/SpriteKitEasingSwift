@@ -118,6 +118,7 @@
 					B91850FC1C6B8B9B0001824F = {
 						CreatedOnToolsVersion = 7.2.1;
 						DevelopmentTeam = 5M6U4VTSB8;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -269,6 +270,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -288,6 +290,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = interactivecoconut.SpriteKitEasing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
